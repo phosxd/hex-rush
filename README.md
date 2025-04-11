@@ -1,2 +1,2 @@
 # hex-rush
-Beta 0.1.
+Archive for every playable version of Hex Rush. Source code will be released when the game is finished!
